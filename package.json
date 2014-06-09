@@ -1,0 +1,17 @@
+{
+  "name": "quicktypes",
+  "version": "0.0.1",
+  "description": "a simple type linting system for js",
+  "bin": {
+    "quicktypes": "./bin/quicktypes"
+  },
+  "devDependencies": {
+    "jest": "^0.1.37",
+    "pegjs": "^0.8.0"
+  },
+  "dependencies": {
+    "commander": "^2.2.0",
+    "esprima": "^1.2.2",
+    "lodash": "^2.4.1"
+  }
+}

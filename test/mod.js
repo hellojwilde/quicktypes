@@ -1,0 +1,5 @@
+var MyModule = {
+  test: function () {
+  }
+};
+
